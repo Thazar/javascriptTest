@@ -1,4 +1,4 @@
 # javascriptTest
 
 Hello, 
-Its my first test.
+Its my first test with git.
